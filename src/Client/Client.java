@@ -14,7 +14,7 @@ public class Client{
 				
 			}
 			System.out.println("Calls :"+o.getCalls());
-			System.out.println("nadji");
+			System.out.println("kfoot");
 		} catch(Exception e){
 			e.printStackTrace();
 		}
